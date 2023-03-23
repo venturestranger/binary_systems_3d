@@ -1,4 +1,4 @@
-A research project, 2022-2023.
+A research project, 2022-2023. 
 Student: Bogdan Yakupov.
 Mentor: Artem Moskalenko. 
 Kazakhstan, Kostanay.
