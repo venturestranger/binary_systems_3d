@@ -1,6 +1,4 @@
 A research project, 2022-2023. 
-Student: Bogdan Yakupov.
-Mentor: Artem Moskalenko. 
 Kazakhstan, Kostanay.
 
 The program models and demonstrates a process of evolution of a two-body system with an arbitrary eccentricity in real time. The process of evolutions considers only gravitational waves emission which is found to be sufficient enough to lead the whole system to change and give accurate estimations.
