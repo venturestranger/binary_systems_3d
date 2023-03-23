@@ -23,7 +23,7 @@ The left window is to change environment behavior and properties:
 
 Program has been verified using Hulse-Taylor binary system.
 
-Control is on WASD and a right mouse button. 
+Control is on WASD and the right mouse button. 
 Setup is available on Windows.
 
 Copyright 2022-2023 Bogdan Yakupov. All rights reserved.
